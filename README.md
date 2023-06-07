@@ -9,5 +9,4 @@ Clearly it's not very good, but my model is pretty simple and was only trained f
 
 I used transfer learning with ResNet18. For the (last) fully connected layer, I just added a linear transformation that outputs to the 555 classes. I used Adam as the optimizer with learning rate 0.01, and used cross entropy loss as the loss function. I leveraged PyTorch and PyTorch Lightning to make the transfer learning process more simple. If I had more time, I would train for more epochs and add more layers. My main issue was how long training took; each epoch took around 5 minutes to complete using the entire dataset.
 
-Link to notebook:
-https://www.kaggle.com/tylernguyen11/birds2
+Link to notebook [here](https://www.kaggle.com/tylernguyen11/birds2)
