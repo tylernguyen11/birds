@@ -1,5 +1,8 @@
 # birds
 
+![image](https://github.com/tylernguyen11/birds/assets/68497574/97230d60-88bc-4a6d-b1f8-1d56fdbed3c5)
+
+
 For the CSE 455 final project, I joined the Kaggle bird competition.
 ![image](https://github.com/tylernguyen11/birds/assets/68497574/c1cd07be-9909-40eb-8246-a3a600cd0681)
 Clearly it's not very good, but my model is pretty simple and was only trained for 40 epochs (training took a long time). However, considering the number of classes (555), I don't think 37% accuracy is too shabby!
